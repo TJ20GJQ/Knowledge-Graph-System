@@ -308,7 +308,7 @@ class QueryProjectGraph:
                              title=f'各学院{target}情况统计')
                 if save_plot:
                     fig.write_html(
-                        f'./query_result/queryCollegeByYear.html')
+                        f'./query_result/queryCollegePieByYear.html')
                 if show_plot:
                     fig.show()
 
