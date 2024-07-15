@@ -56,3 +56,10 @@ Update 2024.6.12 —— 毕业答辩
 ### 鸣谢
 
 本系统构建过程中使用到了科大讯飞关键词提取API、百度智能云大模型API、TexSmart文本匹配API，在此感谢！
+
+[关键词提取 - 自然语言处理 - 讯飞开放平台 (xfyun.cn)](https://www.xfyun.cn/service/keyword-extraction)
+
+[百度智能云控制台 (baidu.com)](https://console.bce.baidu.com/support/?_=1721054444384#/api?product=AI&project=自然语言处理&parent=语言理解技术&api=rpc%2F2.0%2Fnlp%2Fv2%2Fword_emb_vec&method=post)
+
+[TexSmart (qq.com)](https://texsmart.qq.com/zh/matching)
+
